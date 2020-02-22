@@ -1,0 +1,101 @@
+body {
+  background: -webkit-gradient(linear, right top, left top, from(#43edd3), to(yellow));
+  background: linear-gradient(to left, #43edd3, yellow);
+}
+
+body nav {
+  background-image: -webkit-gradient(linear, left top, right top, from(yellow), to(red));
+  background-image: linear-gradient(to right, yellow, red);
+}
+
+body nav a {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body nav a:hover {
+  color: greenyellow;
+}
+
+body .jumbotron {
+  background-image: -webkit-gradient(linear, right top, left top, from(red), to(yellow));
+  background-image: linear-gradient(to left, red, yellow);
+}
+
+body .container .card {
+  border-radius: 15px;
+  margin-top: 100px;
+  min-height: 600px;
+}
+
+body .container .card #gambar {
+  margin-top: 35px;
+  margin-left: 25px;
+  width: 40px;
+  height: 40px;
+}
+
+body .container .card #email {
+  border-radius: 30px;
+  margin-top: 80px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+body .container img {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+body .container h3 {
+  margin-top: 50px;
+  color: #000000;
+  font-family: sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+body .container .isi {
+  margin-top: 50px;
+}
+
+body .container .isi .btn {
+  border-radius: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+body .container #typed {
+  font-size: 20px;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body .container #izal {
+  font-size: 20px;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body .container #kerja {
+  font-size: 20px;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body .container label {
+  text-align: left;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+}
+/*# sourceMappingURL=style.css.map */
