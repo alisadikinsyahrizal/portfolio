@@ -20,3 +20,4 @@ https://www.codepolitan.com/10-laravel-eloquent-tips-dan-trik
 https://codesandbox.io/s/sweetalert2-vue3-forked-qgink?file=/package.json:242-266
 https://ui.toast.com/tui-calendar
 https://github.com/LarsWiegers/laravel-maps
+Storage::disk('s3')->putFileAs($lokasi, $file, $filename)
