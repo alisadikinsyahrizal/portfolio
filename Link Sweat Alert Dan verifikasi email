@@ -21,3 +21,4 @@ https://codesandbox.io/s/sweetalert2-vue3-forked-qgink?file=/package.json:242-26
 https://ui.toast.com/tui-calendar
 https://github.com/LarsWiegers/laravel-maps
 Storage::disk('s3')->putFileAs($lokasi, $file, $filename)
+https://www.tutsmake.com/category/laravel-tutorial/
