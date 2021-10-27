@@ -22,3 +22,4 @@ https://ui.toast.com/tui-calendar
 https://github.com/LarsWiegers/laravel-maps
 Storage::disk('s3')->putFileAs($lokasi, $file, $filename)
 https://www.tutsmake.com/category/laravel-tutorial/
+https://github.com/LaravelDaily/Larastarters
